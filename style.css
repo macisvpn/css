@@ -73,7 +73,7 @@ File: Main Css File
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
   min-height: 62px;
-  background-image: linear-gradient(110deg,#006633 1%,#28c67c 100%);
+  background: linear-gradient(to bottom, #00686d 2%, #00b1ba 99%);
   box-shadow: 0 0 18px 0 rgba(0, 0, 0, 0.3);
 }
 
@@ -474,7 +474,7 @@ File: Main Css File
     overflow: auto;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
-    background-image: linear-gradient(110deg,#006633 1%,#28c67c 100%);
+    background: linear-gradient(to bottom, #00686d 2%, #00b1ba 99%);
   }
   #navigation.open {
     display: block;
